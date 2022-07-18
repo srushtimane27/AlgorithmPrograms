@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9214a9b-6fd4-47ea-a6ce-a68ceee1e6a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +34,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Anagram">
+  <component name="RunManager" selected="Application.PrimeNumbers">
     <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Anagram" />
-      <module name="AlgorithmPrograms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinarySearchWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchWord" />
       <module name="AlgorithmPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,13 +63,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumbers" />
+      <module name="AlgorithmPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.InsertionSortString" />
-        <item itemvalue="Application.BinarySearchWord" />
       </list>
     </recent_temporary>
   </component>
